@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  firefox &
+
+
     3  uname -r
     4  lsb_release
     5  cat /atc/*-release
@@ -58,3 +58,26 @@
    58  ls -la
    59  history
    60  history > history.txt
+   61  ls -l
+   62  cat history.txt
+   63  pwd
+   64  ls
+   65  cat history.txt
+   66  pwd
+   67  ls
+   68  git init
+   69  git add .
+   70  git config --global user.email kristers.misa@inbox.lv
+   71  ls
+   72  git commit -m "20170914_15_55"
+   73  git remote add origin https://github.com/kristersm/DMI.git
+   74  git push origin master
+   75  pwd
+   76  ls
+   77  history
+   78  ls -l
+   79  pwd
+   80  ls -l
+   81  history
+   82  cat history.txt
+   83  history > history.txt
