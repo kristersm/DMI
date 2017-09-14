@@ -1,5 +1,5 @@
-
-
+    1  VirtualBox --startvm XP
+    2  firefox &
     3  uname -r
     4  lsb_release
     5  cat /atc/*-release
@@ -81,3 +81,72 @@
    81  history
    82  cat history.txt
    83  history > history.txt
+   84  ls -l
+   85  nano history.txt
+   86  ls -l
+   87  cat history.txt
+   88  git add .
+   89  git commit -m "20170914_16_45"
+   90  git push origin master
+   91  man echo
+   92  $ echo Tecmint is a cummunity of Linux Nerds
+   93  echo Tecmint is a comunity of Linux Nerds
+   94  x=10
+   95  echo The value of variable x = $x
+   96  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   97  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds" 
+   98  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   99  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+  100  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+  101  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+  102  echo -e "Tecmint \ris a community of Linux Nerds"
+  103  echo -e "Tecmint is a community \cof Linux Nerds" 
+  104  echo -n "Tecmint is a community of Linux Nerds"
+  105  echo -e "Tecmint is a community of \aLinux Nerds"
+  106  echo *
+  107  echo *.jpeg
+  108  echo "Test Page" > testpage
+  109  ls -l
+  110  pwd
+  111  cp history.txt a.txt
+  112  ls -l
+  113  cp history.txt ~/a1.txt
+  114  /home/user/a2.txt
+  115  cp /home/user/a2.txt
+  116  cp history.txt ~/a1.txt
+  117  cp history.txt /home/user/a2.txt
+  118  ../a3.txt
+  119  cp history.txt ../a3.txt
+  120  ls
+  121  cd ..
+  122  ls
+  123  cd /
+  124  pwd
+  125  mv /home/user/*.txt ~/darbi/
+  126  cd
+  127  ls
+  128  cd darbi/
+  129  ls
+  130  pwd
+  131  mkdir apakshdarbi
+  132  ls -l
+  133  mv a*.txt ./apakashdarbi/
+  134  ls
+  135  mv a*.txt ./apakshdarbi/
+  136  ls
+  137  rmdir apakshdarbi/
+  138  man rmdir
+  139  rm apakshdarbi/
+  140  rm -r apakshdarbi/
+  141  ls
+  142  cat history.txt 
+  143  less history.txt 
+  144  nano history.txt 
+  145  ls
+  146  ls -l
+  147  nano
+  148  ls
+  149  cat nano.txt
+  150  pwd
+  151  ls -la
+  152  history > history.txt 
