@@ -1,0 +1,91 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/kristersm/DMI.git
+    3  ls -l
+    4  cd DMI/
+    5  pwd
+    6  ls -la
+    7  mainiigais=10
+    8  3echo $mainiigais
+    9  echo $mainiigais
+   10  1_mainiigais=20
+   11  mainiigais_1=30
+   12  echo $1_mainiigais
+   13  echo $mainiigais_1
+   14  nano shell_exple.sh
+   15  ls -la
+   16  cat shell_exple.sh
+   17  NAME="Vārds Uzvārds"
+   18  echo $NAME
+   19  ls -la
+   20  cat shell_exple.sh
+   21  shell_exple.sh
+   22  chmod 744 shell_exple.sh
+   23  ls -la
+   24  shell_exple.sh
+   25  echo $PATH
+   26  pwd
+   27  shell_exple.sh
+   28  pwd
+   29  /home/user/DMI/shell_exple.sh
+   30  ~/DMI/shell_exple.sh
+   31  ./shell_exple.sh
+   32  nano shell_exple.sh
+   33  ./shell_exple.sh
+   34  nano shell_exple.sh
+   35  cat shell_exple.sh
+   36  nano shell_exple.sh
+   37  ./shell_exple.sh
+   38  cat shell_exple.sh
+   39  nano shell_exple.sh
+   40  ./shell_exple.sh
+   41  cat shell_exple.sh
+   42  ls
+   43  echo $0
+   44  nano shell_exple.sh
+   45  echo $0
+   46  ./shell_exple.sh
+   47  nano shell_exple.sh
+   48  ./shell_exple.sh
+   49  echo $#
+   50  neno shell_exple.sh
+   51  nano shell_exple.sh
+   52  ./shell_exple.sh arg1
+   53  ./shell_exple.sh arg2
+   54* nano
+   55  echo $*
+   56  nano shell_exple.sh
+   57  echo $*
+   58  ./shell_exple.sh
+   59  ./shell_exple.sh arg1
+   60  nano shell_exple.sh
+   61  ./shell_exple.sh
+   62  nano shell_exple.sh
+   63  ecjo $?
+   64  echo $?
+   65  nano shell_exple.sh
+   66  ./shell_exple.sh
+   67  nano shell_exple.sh
+   68  ./shell_exple.sh
+   69  ./y
+   70  nano shell_exple.sh
+   71  ./shell_expl.sh
+   72  ./shell_exple.sh
+   73  nano shell_exple.sh
+   74  ./shell_exple.sh
+   75  nano shell_exple.sh
+   76  ./shell_exple.sh
+   77  nano shell_exple.sh
+   78  ./shell_exple.sh
+   79  echo $$
+   80  nano shell_exple.sh
+   81  ./shell_exple.sh
+   82  echo $!
+   83  nano shell_exple.sh
+   84  ./shell_exple.sh
+   85  cd ..
+   86  nano git-upload
+   87  ls -la
+   88  cd DMI
+   89  nano git-upload
+   90  ./git-upload
+   91  history > history_20170928.txt
