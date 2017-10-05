@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/kristersm/DMI
+    3  ls -l
+    4  cd DMI/
+    5  pwd
+    6  nano test1
+    7  chmod 744 s1.sh
+    8  chmod 744 test1
+    9  chmod 744 shell_operators.sh
+   10  ls -lt
+   11  ./shell_operators.sh
+   12  nano shell_operators.sh
+   13  ./shell_operators.sh
+   14  nano shell_operators.sh
+   15  ./shell_operators.sh
+   16  nano shell_operators.sh
+   17  ./shell_operators.sh
+   18  nano shell_operators.sh
+   19  ./shell_operators.sh
+   20  nano shell_operators.sh
+   21  ./shell_operators.sh
+   22  nano shell_operators.sh
+   23  ./shell_operators.sh
+   24  nano shell_operators.sh
+   25  ./shell_operators.sh
+   26  nano shell_operators.sh
+   27  ./shell_operators.sh
+   28  nano shell_operators.sh
+   29  ./shell_operators.sh
+   30* 
+   31  nano shell_operators.sh
+   32  ./shell_operators.sh
+   33  nano shell_operators.sh
+   34  ./shell_operators.sh 45 78
+   35  ./shell_operators.sh 45 789
+   36  history > history_2017_10_05.txt
