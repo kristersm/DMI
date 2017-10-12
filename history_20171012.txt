@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  git clone https://github.com/kristersm/DMI
+    4  cd DMI
+    5  nano Shell_Relational_Operators
+    6  chmod Shell_Relational_Operators
+    7  chmod 744  Shell_Relational_Operators
+    8  ./Shell_Relational_Operators
+    9  pwd
+   10  nano Shell_Relational_Operators_comments.sh
+   11  ls -l
+   12  Shell_Relational_Operators_comments.sh
+   13  ./Shell_Relational_Operators_comments.sh
+   14  chmod 744 Shell_Relational_Operators_comments.sh
+   15  ./Shell_Relational_Operators_comments.sh
+   16  nano Shell_Relational_Operators_comments.sh
+   17  ./Shell_Relational_Operators_comments.sh
+   18  nano Shell_Relational_Operators_comments.sh
+   19  ./Shell_Relational_Operators_comments.sh
+   20  nano Shell_Relational_Operators_comments.sh
+   21  ./Shell_Relational_Operators_comments.sh
+   22  nano Shell_Relational_Operators_comments.sh
+   23  ./Shell_Relational_Operators_comments.sh
+   24  nano Shell_Relational_Operators_comments.sh
+   25  ./Shell_Relational_Operators_comments.sh
+   26  nano Shell_Relational_Operators_comments.sh
+   27  ./Shell_Relational_Operators_comments.sh
+   28  nano Shell_Relational_Operators_comments.sh
+   29  ./Shell_Relational_Operators_comments.sh
+   30  nano Shell_Relational_Operators_comments.sh
+   31  ./Shell_Relational_Operators_comments.sh
+   32  nano git-upload
+   33  history > history_20171012.txt
