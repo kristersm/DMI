@@ -1,0 +1,40 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/kristersm/DMI
+    3* a_VS
+    4  nano dialogs.sh
+    5  cat dialogs.sh
+    6  chmod 744 dialogs.sh
+    7  ./dialogs.sh
+    8  nano dialogs.sh
+    9  ./dialogs.sh
+   10  cp dialogs.sh a_VS_b.sh
+   11  ls -l
+   12  nano a_VS_b.sh
+   13  ./a_VS_b.sh
+   14  nano a_VS_b.sh
+   15  ./a_VS_b.sh
+   16  nano a_VS_b.sh
+   17  ./a_VS_b
+   18  ./a_VS_b.sh 
+   19  nano a_VS_b.sh
+   20  ./a_VS_b.sh 
+   21  nano a_VS_b.sh 
+   22  ./a_VS_b.sh 
+   23  nano a_VS_b.sh
+   24  ./a_VS_b.sh 
+   25  nano a_VS_b.sh 
+   26  ./a_VS_b.sh 
+   27  nano a_VS_b.sh 
+   28  ./a_VS_b.sh 
+   29  nano a_VS_b.sh 
+   30  ./a_VS_b.sh 
+   31  cp a_VS_b.sh a_VS_b_VS_c.sh
+   32  nano a_Vs_b_VS_c.sh
+   33  nano a_VS_b_VS_c.sh
+   34  ./a_VS_b_VS_c.sh 
+   35  nano a_VS_b_VS_c.sh
+   36  ./a_VS_b_VS_c.sh 
+   37  nano a_VS_b_VS_c.sh
+   38  ./a_VS_b_VS_c.sh 
+   39  ls -l
+   40  history > history_20171019.txt
