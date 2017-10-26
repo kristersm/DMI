@@ -1,0 +1,104 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/kristersm/DMI
+    3  ls -l
+    4  cd DMI/
+    5  nano if.sh
+    6  chmod 744 if.sh
+    7  ./if.sh
+    8  nano if.sh
+    9  ./if.sh
+   10  ./if.sh 10
+   11  nano if.sh
+   12  ./if.sh 10
+   13  ./if.sh -10
+   14  nano if.sh
+   15  ./if.sh 10
+   16  ./if.sh -10
+   17  nano if.sh
+   18  ./if.sh -10
+   19  nano if.sh
+   20  ./if.sh 10
+   21  nano if.sh
+   22  ./if.sh
+   23  ./if.sh 10
+   24  nano if.sh
+   25  ./if.sh 10
+   26  nano if.sh
+   27  ./if.sh 10
+   28  ./if.sh -10
+   29  nano if.sh
+   30  ./if.sh 10
+   31  ./if.sh -10
+   32  nano if.sh
+   33  ./if.sh 10
+   34  ./if.sh -10
+   35  ./if.sh 0
+   36  nano if.sh
+   37  ./if.sh 10
+   38  ./if.sh -10
+   39  ./if.sh 0
+   40  nano if.sh
+   41  ./if.sh 0
+   42  nano sort.sh
+   43  chmod 744 sort.sh
+   44  ./sort.sh 1 2 3
+   45  nano sort.sh
+   46  ./sort.sh 1 2 3
+   47  nano sort.sh
+   48  ./sort.sh 1 2 3
+   49  ./sort.sh 
+   50  nano sort.sh
+   51  ./sort.sh 1 2 3
+   52  nano sort.sh
+   53  ./sort.sh 1 2 3
+   54  nano sort.sh
+   55  ./sort.sh 1 2 3
+   56  ./sort.sh 3 2 1
+   57  nano sort.sh
+   58  ./sort.sh 123
+   59  ./sort.sh 1 2 3
+   60  nano sort.sh
+   61  ./sort.sh 1 2 3
+   62  ./sort.sh 1 6 2
+   63  ./sort.sh 2 3 1
+   64  ./sort.sh 2 1 3
+   65  ./sort.sh 3 2 1
+   66  ./sort.sh 3 1 2
+   67  ./sort.sh 56 100 2563
+   68  nano sort.sh
+   69  ./sort.sh 1 2 3
+   70  ./sort.sh 2 3 1
+   71  ./sort.sh 3 2 1
+   72  nano sort.sh
+   73  ./sort.sh 3 2 1
+   74  ./sort.sh 1 2 3
+   75  ./sort.sh 1 3 2
+   76  ./sort.sh 3 2 1
+   77  ./sort.sh 3 1 2
+   78  ./sort.sh 2 1 3
+   79  ./sort.sh 2  3 1
+   80  cp sort.sh satatistika.sh
+   81  ls -l
+   82  nano sort.sh
+   83  nano statistika.sh
+   84  nano sort.sh
+   85  nano statistika.sh
+   86  nano sort.sh
+   87  nano array_loop.sh
+   88  chmod 744 array_loop.sh
+   89  ./array_loop.sh 4 8 10
+   90  nano array_loop.sh
+   91  ./array_loop.sh 4 8 10
+   92  nano array_loop.sh
+   93  ./array_loop.sh 4 
+   94  nano array_loop.sh
+   95  ./array_loop.sh 4 
+   96  ./array_loop.sh 4 7
+   97  ./array_loop.sh 4 8 10
+   98  nano array_loop.sh
+   99  ./array_loop.sh 4
+  100  ./array_loop.sh 4 858 56856 85 8
+  101  nano array_loop.sh
+  102  ./array_loop.sh 4 858 56856 85 8
+  103  nano statistika.sh
+  104  history > history_20171026
