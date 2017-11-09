@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/kristersm/DMI
+    3  cd DMI
+    4  mkdir PYTHON
+    5  ls -l
+    6  cd PYTHON/
+    7  nano hello.py
+    8  whereis python
+    9  nano hello.py
+   10  ./hello.py
+   11  chmod 744 hello.py
+   12  ./hello.py
+   13  nano hello.py
+   14  ./hello.py
+   15  nano hello.py
+   16  nano variables.py
+   17  chmod 744 variables.py
+   18  cat variables.py
+   19  ./variables.py
+   20  nano variables.py
+   21  ./variables.py
+   22  nano variables.py
+   23  ./variables.py
+   24  nano variables.py
+   25  ./variables.py
+   26  nano variables.py
+   27  ./variables.py
+   28  nano variables.py
+   29  ./variables.py
+   30  nano variables.py
+   31  ./variables.py
+   32  nano variables.py
+   33  ./variables.py
+   34  nano variables.py
+   35  nano dialogs.py
+   36  chmod 744 dialogs.py
+   37  ./dialogs.py
+   38  nano dialogs.py
+   39  ./dialogs.py
+   40  nano dialogs.py
+   41  ./dialogs.py
+   42  nano dialogs.py
+   43  ./dialogs.py
+   44  nano dialogs.py
+   45  ./dialogs.py
+   46  nano dialogs.py
+   47  ./dialogs.py
+   48  nano dialogs.py
+   49  ./dialogs.py
+   50  nano dialogs.py
+   51  ./dialogs.py
+   52  nano if.py
+   53  python if.py
+   54  nano if.py
+   55  python if.py
+   56  nano if.py
+   57  python if.py
+   58  python if.py-10
+   59  python if.py
+   60  nano if.py
+   61  python if.py
+   62  nano if.py
+   63  idle &
+   64  ls -l
+   65  cd ..
+   66  history > history_20171109.txt
