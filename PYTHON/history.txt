@@ -4,7 +4,3 @@
     4  cd PYTHON
     5  idle
     6  history > history.txt
-    7  nano git-upload
-    8  cd ..
-    9  cd DMI
-   10  history > history.txt
